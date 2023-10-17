@@ -1,4 +1,4 @@
-# clean-code-javascript-tr
+#!clean-code-javascript-tr
 
 ## İçindekiler
   1. [Giriş](#giriş)
@@ -15,10 +15,10 @@
   12. [Çeviriler](#translation)
 
 ## Giriş
-![Yazılım kalitesi hakkında "Bu ne ola ki" sorularından oluşan komik bir görsel.](http://www.osnews.com/images/comics/wtfm.jpg)
+ [Yazılım kalitesi hakkında "Bu ne ola ki" sorularından oluşan komik bir görsel.](http://www.osnews.com/images/comics/wtfm.jpg)
 
 Yazılım mühendisliği prensipleri, Robert C. Martin'in
-[*Clean Code*](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) isimli kitabından alınmış, JavaScript için uyarlanmıştır. Bu bir stil rehber değildir. Bu JavaScript ile
+[ Clean Code ](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) isimli kitabından alınmış, JavaScript için uyarlanmıştır. Bu bir stil rehber değildir. Bu JavaScript ile
 [readable, reusable, ve refactorable](https://github.com/ryanmcdermott/3rs-of-software-architecture) yazılımlar üretmek için bir rehberdir..
 
 Burada yazılan prensiplere sıkı bir şekilde uymanız gerekmez belki bazı kurallar herkesçe kabul edilecektir. Burada yazanlar kurallar ve daha fazlası değil. Ancak bu kurallar *Clean Code* yazarlarının uzun yıllara dayanan deneyimleri sonucu ortaya çıktığı için dikkate almanız iyi olabilir.
@@ -2166,3 +2166,4 @@ This is also available in other languages:
   [frappacchio/clean-code-javascript/](https://github.com/frappacchio/clean-code-javascript/)
 
 **[⬆ en başa dön](#içindekiler)**
+ 
