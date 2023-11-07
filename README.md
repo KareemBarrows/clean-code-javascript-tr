@@ -1,7 +1,7 @@
-#!clean-code-javascript-tr
+!!clean-code-javascript-tr
 
-## İçindekiler
-  1. [Giriş](#giriş)
+*# İçindekiler
+# 1. [Giriş](#giriş)
   2. [Değişkenler](#değişkenler)
   3. [Fonksiyonlar](#fonksiyonlar)
   4. [Nesneler ve Veri Yapıları](#nesneler-ve-veri-yapıları)
@@ -2166,4 +2166,4 @@ This is also available in other languages:
   [frappacchio/clean-code-javascript/](https://github.com/frappacchio/clean-code-javascript/)
 
 **[⬆ en başa dön](#içindekiler)**
- 
+  
